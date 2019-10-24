@@ -1,0 +1,94 @@
+h1 {
+  width: 30%;
+  /* Замените значение свойства на "Georgia", serif */
+  font-family: "AmazDooMRight.tff", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  border: 3px solid yellow;
+  border-radius: 15px 0 0 45px;
+  padding: 5px;
+}
+a{
+	text-decoration: none;
+}
+
+
+
+.hj:hover{
+	color: #ffa500;
+	text-decoration: none;
+
+}
+
+div {
+	display: flex; flex-direction: column; 
+
+}
+.container-fluid{
+	
+}
+
+.hr{
+
+	display: inline;
+	justify-content: space-between;	
+
+}
+
+
+.hj{
+	margin:20px;
+	color: #FFFFFF;
+}
+
+img {
+	padding-right: 20px;
+}
+
+nav{
+	padding-top: 10px;
+	padding-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+p {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  text-transform: justify;
+
+}
+.st1, .st2{
+	margin-bottom: 10px;
+}
+.st1{
+	padding: 20px;
+
+}
+.st2{
+	padding: 20px;
+
+
+}
+.block{
+	margin-bottom: 10px;
+	padding-top: 10px !important;
+}.box-head{
+	float: left;
+}
+.box-body{
+	float: left;
+}
+
+.shapka{
+	width: 1908px;
+	height: 420px;
+    float: center; 	
+	background: url('image/1.jpg');
+}
+.page-side {
+    float: right;
+    height: 100%;   	
+   	border: 2px solid red;
+    background-color: rgba(0, 0, 1);
+    }
